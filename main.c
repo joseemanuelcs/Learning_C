@@ -16,6 +16,14 @@ void main()
     case 2:
         printf("Terca\n");
         break;
+        
+    case 3:
+        printf("Quarta\n");
+        break;
+
+    case 2:
+        printf("Quinta\n");
+        break;
     }
 
 }
