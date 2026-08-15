@@ -1,4 +1,4 @@
-#include <stdio.h>
+##include <stdio.h>
 
 void main()
 {
@@ -15,6 +15,14 @@ void main()
         break;
     case 2:
         printf("Terca\n");
+        break;
+        
+    case 3:
+        printf("Quarta\n");
+        break;
+
+    case 2:
+        printf("Quinta\n");
         break;
     }
 
